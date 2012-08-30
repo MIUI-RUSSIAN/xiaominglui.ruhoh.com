@@ -3,4 +3,4 @@ title : About Me
 description:
 ---
 
-Hello, how are you?
+I am an Android programmer who committed to build apps combining usability and elegance.
