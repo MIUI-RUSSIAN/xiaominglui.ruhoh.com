@@ -1,5 +1,5 @@
 ---
-title:
+title: The Account And Data Notify In Jelly Bean
 date: '2012-10-08'
 description:
 categories:
