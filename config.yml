@@ -6,7 +6,7 @@ theme : twitter
 production_url : http://sample.com
 
 posts:
-  permalink: /:categories/:title/
+  permalink: /:categories/:filename/
   summary_lines: 3
   latest: 3
   layout: 'post'
